@@ -1,0 +1,5 @@
+﻿  generation.cpp
+C:\Users\VNykonenko\Desktop\Programming SUT\Nykonenko Projekt\head.h(29,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\VNykonenko\Desktop\Programming SUT\Nykonenko Projekt\generation.cpp(47,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VNykonenko\Desktop\Programming SUT\Nykonenko Projekt\generation.cpp(49,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Nykonenko Projekt.vcxproj -> C:\Users\VNykonenko\Desktop\Programming SUT\Nykonenko Projekt\x64\Debug\Nykonenko Projekt.exe
